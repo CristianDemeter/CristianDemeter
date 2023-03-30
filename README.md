@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CristianDemeter
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning C#, Bash and AWS!
-- 💞️ I’m looking to collaborate on projects in free-time
 - 📫 How to reach me: send me a mail at demeter.cri@gmail.com
 
 <!---
